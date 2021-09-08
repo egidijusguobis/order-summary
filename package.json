@@ -1,0 +1,24 @@
+{
+  "name": "order-summary",
+  "version": "1.0.0",
+  "description": "![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egidijusguobis/order-summary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egidijusguobis/order-summary/issues"
+  },
+  "homepage": "https://github.com/egidijusguobis/order-summary#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
