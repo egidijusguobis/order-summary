@@ -9,7 +9,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
   - [Author](#author)
@@ -22,8 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]https://egidijusguobis.github.io/order-summary/)
 
 ## Author
 
